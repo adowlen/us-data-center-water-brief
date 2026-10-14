@@ -28,3 +28,7 @@ Requires Python 3 with matplotlib and numpy.
 ## Caveats (short version)
 
 Withdrawal is not consumption; direct (onsite) water is not indirect (electricity generation) water; the brief labels both everywhere and never sums across the labels. Company totals are global, mix fiscal and calendar years, and use different boundaries; Berkeley Lab's national figures are modeled estimates, not meter totals; USGS context is 2015, the last compilation with a national consumptive-use split. Full caveats in the brief.
+
+## Part of Machine Readable
+
+This brief is part of [Machine Readable](https://adowlen.github.io/machine-readable/), the catalog of all Machine Readable briefs.
